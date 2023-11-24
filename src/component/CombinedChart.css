@@ -1,0 +1,14 @@
+
+.row {
+  
+    display: flex;
+    
+    margin-top: 50px;
+  }
+  
+  .column {
+    flex: 1;
+    margin: 10px; /* Optional: Add margin for spacing between columns */
+  }
+  
+ 
